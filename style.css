@@ -1,0 +1,35 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float:right;
+    border: 5px solid white;
+}
+#playgame,#status{
+    font-size: 25px;
+}
+.big_image{
+    width:100%;
+}
+h4{
+background-color: greenyellow;
+line-height: 2;
+margin: 0;    
+}
+.modal-dailog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background:url('game_console.png');
+    background-position: center;
+    padding: 25px;
+    background-size: cover;
+}
